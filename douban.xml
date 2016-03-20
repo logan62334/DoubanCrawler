@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:db="http://www.douban.com/xmlns/"
+	xmlns:gd="http://schemas.google.com/g/2005" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+	xmlns:opensearch="http://a9.com/-/spec/opensearchrss/1.0/">
+	<id>http://api.douban.com/book/subject/20497858</id>
+	<title>网站分析实战</title>
+	<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#book" />
+	<author>
+		<name>王彦平 吴盛峰</name>
+	</author>
+	<link href="http://api.douban.com/book/subject/20497858" rel="self" />
+	<link href="http://book.douban.com/subject/20497858/" rel="alternate" />
+	<link href="http://img4.douban.com/spic/s25678478.jpg" rel="image" />
+	<link href="http://m.douban.com/book/subject/20497858/" rel="mobile" />
+	<summary>《网站分析实战:如何以数据驱动决策,提升网站价值》由王彦平、吴盛峰著。目前
+		，越来越多的网站开始重视数据，并期望从中发现新的机会，不管你是做网络营销、互联网
+		产品设计、电子商务运营、个人站点运营维护，我们都希望从数据中寻找有价值的结论，并
+		且指导公司管理层的决策，最终创造更大的网站价值。《网站分析实战:如何以数据驱动决策
+		,提升网站价值》以通俗易懂的方式来讲解网站分析所需掌握的知识，剖析日常工作中遇到的
+		问题，并且配合大量的实战案例的讲解。
+	</summary>
+	<db:attribute name="subtitle">如何以数据驱动决策,提升网站价值</db:attribute>
+	<db:attribute name="isbn10">7121193124</db:attribute>
+	<db:attribute name="isbn13">9787121193125</db:attribute>
+	<db:attribute name="title">网站分析实战</db:attribute>
+	<db:attribute name="pages">302</db:attribute>
+	<db:attribute name="author">王彦平
+		吴盛峰
+	</db:attribute>
+	<db:attribute name="price">59.00元</db:attribute>
+	<db:attribute name="publisher">电子工业出版社</db:attribute>
+	<db:attribute name="pubdate">2013-1</db:attribute>
+	<db:tag count="226" name="网站分析" />
+	<db:tag count="185" name="数据分析" />
+	<db:tag count="88" name="基础知识-运营分析" />
+	<db:tag count="58" name="GoogleAnalytics" />
+	<db:tag count="45" name="互联网" />
+	<db:tag count="37" name="web-analytics" />
+	<db:tag count="35" name="畅销书" />
+	<db:tag count="22" name="analytics" />
+	<gd:rating average="8.3" max="10" min="0" numRaters="63" />
+</entry>
